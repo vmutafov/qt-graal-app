@@ -1,0 +1,9 @@
+[SHARED_LIB]
+libgraalmultiply.dylib
+
+[HEADER]
+libgraalmultiply.h
+graal_isolate.h
+libgraalmultiply_dynamic.h
+graal_isolate_dynamic.h
+
